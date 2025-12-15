@@ -134,7 +134,7 @@ export function Home({ locations, onViewLocation, onNavigate, user, onLogout }: 
           
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl mb-6">
-              Book University Facilities with Ease.
+              Book University Facilities with Ease
               <div className="text-2xl md:text-3xl lg:text-4xl mt-4">
                 Wayamba University Of Sri Lanka
               </div>
